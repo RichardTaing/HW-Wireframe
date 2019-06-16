@@ -6,3 +6,17 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 1.25em;
 }
+
+header {
+  background-color: #1d88e5;
+  height: 100px;
+  padding: 10px;
+  border: 1px solid white;
+}
+
+footer {
+  background-color: #1d88e5;
+  height: 100px;
+  padding: 10px;
+  border: 1px solid white;
+}
